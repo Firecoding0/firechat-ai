@@ -49,7 +49,7 @@
 **1. Клонирование репозитория:**
 
 ```bash
-git clone *ссылка на этот репозиторий*
+git clone https://github.com/Firecoding0/firechat-ai/edit/main/README.md
 cd firechat
 ```
 
